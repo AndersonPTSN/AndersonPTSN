@@ -1,4 +1,4 @@
-### Salve! Tudo certo? Me chamo Anderson Pereira Torres, Bem-Vindo!
+### Olá! me chamo Anderson Pereira Torres, Bem-Vindo!
 
 - 🔭 Hoje trabalho como Testador na STI 
 - 🌱 Estudante de Bacharelado em Tecnologia da Informação - Ênfase em Engenharia de Software
@@ -19,6 +19,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
