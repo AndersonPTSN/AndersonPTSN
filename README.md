@@ -1,7 +1,9 @@
-### Olá! me chamo Anderson Pereira Torres, Bem-Vindo!
+### Hello welcome!
 
-- 🔭 Hoje trabalho como Testador na STI 
-- 🌱 Estudante de Bacharelado em Tecnologia da Informação - Ênfase em Engenharia de Software
+- 🔭 I am currently working on my personal projects
+- 📚 Finished Federal Institute of Rio Grande do Norte - internet computing
+- 🌱 Bachelor's Degree Student in Information Technology - Emphasis on QA: processes and test automation
+- 🎮 Game lover in free time
 
 <div align="center">
   <a href="https://github.com/AndersonPTSN">
